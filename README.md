@@ -1,0 +1,2 @@
+# wtc
+git worktree cleaner
